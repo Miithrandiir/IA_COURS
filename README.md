@@ -8,8 +8,7 @@
 - [Apprentissage supervisé](#apprentissage-supervisé)
   - [Définition](#définition)
   - [Les différentes représentations](#les-différentes-représentations)
-  - [Algorithmes](#algorithmes)
-    - [Les K plus proches voisins](#les-k-plus-proches-voisins)
+  - [Les K plus proches voisins](#les-k-plus-proches-voisins)
     - [Principe](#principe)
       - [KNN pour la classification](#knn-pour-la-classification)
       - [KNN pour la régression](#knn-pour-la-régression)
@@ -87,11 +86,9 @@ classification.
  - Si f est une fonction binaire on parle alors d’apprentissage
 de concept.
 
-## Algorithmes
-
 <img src="img/k_plus_proche_1.png" width="300"> <img src="img/k_plus_proche_2.png" width="300">
 
-### Les K plus proches voisins
+## Les K plus proches voisins
 
  - Classification et régression.
  - Facile à comprendre.
